@@ -13,7 +13,7 @@
 				"videoType": "mp4",
 				"bitrate": "1328"
 			}],
-			"duration": "926",
+			"duration": 926,
 			"captions": {
 				"url": "",
 				"Language": "en",
@@ -31,9 +31,6 @@
 			"order": "most_recent"
 		}], 
 		"playlists": [{
-			"name": "live",
-			"itemIds": ["1"]
-		}, {
 			"name": "sports", 
 			"itemIds": ["345513455"]
 		}]
