@@ -1,0 +1,40 @@
+{
+	"providerName": "University of Notre Dame",
+	"language": "en-US",
+	"lastUpdated": "2019-07-01T12:00:00",
+	"shortFormVideos": [{
+		"id": "345513455",
+		"title": "Freshman Football Highlight Video",
+		"content": {
+			"dateAdded": "2019-07-01",
+			"videos": [{
+				"url": "https://vimeo.com/345513455",
+				"quality": "HD",
+				"videoType": "mp4",
+				"bitrate": "1328"
+			}],
+			"duration": "926",
+			"captions": {
+				"url": "",
+				"Language": "en",
+				"captionType": ""
+			}
+		},
+		"thumbnail": "https://i.vimeocdn.com/video/795306898.webp?mw=700&mh=525", 
+		"shortDescription": "A highlight video from my freshman Year at John Adams Highschool.",
+		"releaseDate": "2019-07-01",
+		"tags": "sports"
+		}], 
+		"categories": [{
+			"name": "Sports",
+			"playlistName": "sports",
+			"order": "most_recent"
+		}], 
+		"playlists": [{
+			"name": "live",
+			"itemIds": ["1"]
+		}, {
+			"name": "sports", 
+			"itemIds": ["345513455"]
+		}]
+	}
