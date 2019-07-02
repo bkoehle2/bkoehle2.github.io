@@ -2,6 +2,7 @@
 	"providerName": "Acme Productions",
 	"lastUpdated": "2015-11-11T22:21:37+00:00",
 	"language": "en",
+	"movies": [ ],
 	"shortFormVideos": [{
 		"id": "345513455",
 		"title": "Freshman Football Highlight Video",
@@ -34,7 +35,6 @@
 			"name": "sports", 
 			"itemIds": ["345513455"]
 		}],
-		"movies": [ ],
 		"series": [ ],
 		"tvSpecials": [ ]
 			}
