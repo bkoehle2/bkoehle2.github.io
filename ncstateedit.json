@@ -1,5 +1,5 @@
 {
-	"providerName": "NC State University",
+	"providerName": "University of Notre Dame",
 	"language": "en-US",
 	"lastUpdated": "2019-07-02T09:00:01",
 	"shortFormVideos": [{
@@ -26,12 +26,12 @@
 		"tags": "sports"
 	}],
 	"categories": [{
-		"name": "PackTV Live Stream",
-		"playlistName": "live",
+		"name": "Football",
+		"playlistName": "football",
 		"order": "most_recent"
 	}],
 	"playlists": [{
-		"name": "live",
+		"name": "football",
 		"itemIds": ["345513455"]
 	}]
 }
