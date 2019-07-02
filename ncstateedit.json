@@ -1,0 +1,38 @@
+{
+	"providerName": "NC State University",
+	"language": "en-US",
+	"lastUpdated": "2019-07-02T09:00:01",
+	"movies": [{}],
+	"shortFormVideos": [{
+		"id": "345513455",
+		"title": "Freshman Football Highlight Video",
+		"content": {
+			"dateAdded": "2019-07-01T16:34:03+00:00",
+			"videos": [{
+				"url": "https://vimeo.com/345513455",
+				"quality": "SD",
+				"videoType": "mp4",
+				"bitrate": "1328"
+			}],
+			"duration": 926,
+			"captions": {
+				"url": "",
+				"Language": "en",
+				"captionType": ""
+			}
+		},
+		"thumbnail": "https://i.vimeocdn.com/video/781075382_960x540.jpg?r=pad",
+		"shortDescription": "A highlight video from my freshman Year at John Adams Highschool.",
+		"releaseDate": "2019-07-01T16:34:03+00:00",
+		"tags": "sports"
+	}],
+	"categories": [{
+		"name": "PackTV Live Stream",
+		"playlistName": "live",
+		"order": "most_recent"
+	}],
+	"playlists": [{
+		"name": "live",
+		"itemIds": ["345513455"]
+	}]
+}
