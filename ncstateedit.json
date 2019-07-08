@@ -8,7 +8,7 @@
 		"content": {
 			"dateAdded": "2019-07-01T16:34:03+00:00",
 			"videos": [{
-				"url": "https://gcs-vimeo.akamaized.net/exp=1562612455~acl=%2A%2F1388014491.mp4%2A~hmac=617a6cf1a40cf712f8a880e5862ffaaf50c8af29e809c0b19115fe31f7cf2cf2/vimeo-prod-skyfire-std-us/01/4102/13/345513455/1388014491.mp45",
+				"url": "https://gcs-vimeo.akamaized.net/exp=1562612455~acl=%2A%2F1388014491.mp4%2A~hmac=617a6cf1a40cf712f8a880e5862ffaaf50c8af29e809c0b19115fe31f7cf2cf2/vimeo-prod-skyfire-std-us/01/4102/13/345513455/1388014491.mp4",
 				"quality": "SD",
 				"videoType": "mp4",
 				"bitrate": "1328"
