@@ -24,14 +24,46 @@
 		"shortDescription": "A highlight video from my freshman Year at John Adams Highschool.",
 		"releaseDate": "2019-07-01T16:34:03+00:00",
 		"tags": "sports"
-	}],
+	}, {
+		"id": "345514499",
+		"title": "Battlefield 4 gameplay highlight",
+		"content": {
+			"dateAdded": "2019-07-01T16:34:03+00:00",
+			"videos": [{
+				"url": "https://gcs-vimeo.akamaized.net/exp=1562612696~acl=%2A%2F1388020453.mp4%2A~hmac=cb59cadf2ea041275ada9f1dc8eb4e1b652806af5d48ac659c8b35a045716a68/vimeo-prod-skyfire-std-us/01/4102/13/345514499/1388020453.mp4",
+				"quality": "HD",
+				"videoType": "mp4",
+				"bitrate": "1328"
+			}],
+			"duration": 27,
+			"captions": {
+				"url": "",
+				"Language": "en",
+				"captionType": ""
+			}
+		},
+		"thumbnail": "https://i.vimeocdn.com/video/795308154_1280x720.jpg",
+		"shortDescription": "A highlight of my game play in Battlefield 4.",
+		"releaseDate": "2019-07-01T16:34:03+00:00",
+		"tags": "video games"
+		
+		
+		
+		],
 	"categories": [{
 		"name": "Football",
 		"playlistName": "football",
+		"order": "most_recent"
+	}, {
+		"name": "Video Games",
+		"playlistName": "videoGames"
 		"order": "most_recent"
 	}],
 	"playlists": [{
 		"name": "football",
 		"itemIds": ["345513455"]
+	}, {
+		"name": "videoGames",
+		"itemIds": ["345514499"]
 	}]
 }
