@@ -46,6 +46,28 @@
 		"shortDescription": "A highlight of my game play in Battlefield 4.",
 		"releaseDate": "2019-07-01T16:34:03+00:00",
 		"tags": "video games"
+	}, {
+		"id": "345528322",
+		"title": "Football Cookout Video",
+		"content": {
+			"dateAdded": "2019-07-01T16:34:03+00:00",
+			"videos": [{
+				"url": "https://gcs-vimeo.akamaized.net/exp=1562614721~acl=%2A%2F1388102902.mp4%2A~hmac=74d946732049464e91a1318a6dad667b6e661b32040cdf6dd3b228d60960984c/vimeo-prod-skyfire-std-us/01/4105/13/345528322/1388102902.mp4",
+				"quality": "SD",
+				"videoType": "mp4",
+				"bitrate": "1328"
+			}],
+			"duration": 24,
+			"captions": {
+				"url": "",
+				"Language": "en",
+				"captionType": ""
+			}
+		},
+		"thumbnail": "https://i.vimeocdn.com/video/795325725_1280x720.jpg",
+		"shortDescription": "A video of me and my friends in our pool messing around.",
+		"releaseDate": "2019-07-01T16:34:03+00:00",
+		"tags": "sports"
 	}],
 	"categories": [{
 		"name": "Football",
@@ -58,7 +80,7 @@
 	}],
 	"playlists": [{
 		"name": "football",
-		"itemIds": ["345513455"]
+		"itemIds": ["345513455", "345528322"]
 	}, {
 		"name": "videoGames",
 		"itemIds": ["345514499"]
