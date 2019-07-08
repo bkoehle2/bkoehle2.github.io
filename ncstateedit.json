@@ -46,17 +46,14 @@
 		"shortDescription": "A highlight of my game play in Battlefield 4.",
 		"releaseDate": "2019-07-01T16:34:03+00:00",
 		"tags": "video games"
-		
-		
-		
-		],
+	}],
 	"categories": [{
 		"name": "Football",
 		"playlistName": "football",
 		"order": "most_recent"
 	}, {
 		"name": "Video Games",
-		"playlistName": "videoGames"
+		"playlistName": "videoGames",
 		"order": "most_recent"
 	}],
 	"playlists": [{
