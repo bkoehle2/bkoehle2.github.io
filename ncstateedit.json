@@ -8,7 +8,7 @@
 		"content": {
 			"dateAdded": "2019-07-01T16:34:03+00:00",
 			"videos": [{
-				"url": "https://vimeo.com/345513455",
+				"url": "https://player.vimeo.com/video/345513455",
 				"quality": "SD",
 				"videoType": "mp4",
 				"bitrate": "1328"
